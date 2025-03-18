@@ -3,7 +3,7 @@
 1. Clone the repository:
 
    ```sh
-   git clone https://gitlab.com/ajay-it/react-native-aora
+   git clone https://github.com/yogesh19aggarwal/aora-react-native-app.git
    cd react-native-aora
    ```
 
